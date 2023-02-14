@@ -1,0 +1,14 @@
+{
+  "_cts": {
+    "page": {},
+    "homepage": {},
+    "menu": {}
+  },
+  "slices": {
+    "HeroSlice": {},
+    "ImageGrid": {},
+    "PromoSectionSlice": {},
+    "Menu": {},
+    "Product": {}
+  }
+}

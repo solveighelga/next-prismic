@@ -1,0 +1,157 @@
+{
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "shelter",
+    "type": "Text"
+  },
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "wrong"
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": [
+      {
+        "key": "hero_slice$9a276889-2790-4caf-92bf-1c49860e753d",
+        "name": "hero_slice",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "title": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Sight"
+                  }
+                }
+              ]
+            },
+            "description": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Cillum ipsum aliqua ullamco in deserunt occaecat consectetur ullamco mollit amet. Incididunt cupidatat laborum consequat duis officia commodo et sit ea officia consequat et elit dolore pariatur. Ex officia nulla mollit aliqua labore."
+                  }
+                }
+              ]
+            },
+            "image": {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+                "width": 3648,
+                "height": 4560
+              },
+              "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+              "width": 3648,
+              "height": 4560,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": [
+                [
+                  "cta_link",
+                  {
+                    "__TYPE__": "LinkContent",
+                    "value": {
+                      "__TYPE__": "ExternalLink",
+                      "url": "https://slicemachine.dev"
+                    }
+                  }
+                ],
+                [
+                  "cta_text",
+                  {
+                    "__TYPE__": "FieldContent",
+                    "value": "read",
+                    "type": "Text"
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "key": "image_grid$b43e86be-74d8-415a-9a08-8fd4b233dfe4",
+        "name": "image_grid",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "title": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Instrument"
+                  }
+                }
+              ]
+            },
+            "description": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Qui aliquip ipsum sunt labore deserunt consectetur voluptate consectetur."
+                  }
+                }
+              ]
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": [
+                [
+                  "image",
+                  {
+                    "__TYPE__": "ImageContent",
+                    "origin": {
+                      "id": "main",
+                      "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+                      "width": 5848,
+                      "height": 3899
+                    },
+                    "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+                    "width": 5848,
+                    "height": 3899,
+                    "edit": {
+                      "zoom": 1,
+                      "crop": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "background": "transparent"
+                    },
+                    "thumbnails": {}
+                  }
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
